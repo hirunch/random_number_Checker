@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class ch1 {
+public class RandomChecker {
 
     public static void main(String[] args){
 
